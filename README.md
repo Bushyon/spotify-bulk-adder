@@ -1,4 +1,4 @@
-# spotify-bulk-adder
+# Spotify Bulk Adder
 
 The Spotify Bulk Adder is a Python script that allows you to quickly create playlists and add multiple songs to your Spotify account using the Spotify API. Simply provide a list of song names, and the script will search for and add the tracks to your specified playlist.
 
