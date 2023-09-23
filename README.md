@@ -7,7 +7,7 @@ The Spotify Bulk Adder is a Python script that allows you to quickly create play
 1. **Obtaining API Credentials:**
    - Visit the [Spotify for Developers](https://developer.spotify.com/) website.
    - Log in with your Spotify account or create one if you haven't already.
-   - Create a new application and fill in the required details (e.g., App Name, App Description, What are you building?, Website, and Redirect URIs).
+   - Create a new application and fill in the required details (e.g., App Name, App Description, What are you building?, Website, and Redirect URIs (http://localhost:8080/callback is the default).
    - After creating the application, navigate to the application details page to find your API credentials (Client ID and Client Secret).
 
 2. **Setting Up Authentication:**
